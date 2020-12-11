@@ -1,0 +1,49 @@
+
+
+#anchor-pane{
+	-fx-background-image: url("../images/pattern.png");
+	-fx-background-repeat: repeat;
+	-fx-background-size: 12 12;
+	-fx-background-color: #777;
+}
+
+#tab-pane{
+	-fx-background-color: linear-gradient(to top, #DEDEDE, #F0F0F0);
+	-fx-opacity: .8;
+}
+
+#tab-pane .tab {
+    -fx-base: rgba(0,0,0, 0.59);
+}
+
+#tab-pane .tab:selected{
+	-fx-base: rgba(255, 78, 50, 0.89);
+}
+
+#canvas-holder{
+	-fx-background-color: white;
+}
+
+.menu-item {
+    -fx-padding: 5 20 5 10;
+}
+
+#animation-conrols{
+	-fx-background-color: linear-gradient(to top, #DEDEDE, #F0F0F0);
+}
+
+.button{
+	-fx-cursor: hand;
+	-fx-base: rgba(0,0,0, 0.59);
+	-fx-background-radius: 5, 4, 3;
+}
+
+.button:focused {
+    -fx-background-color: -fx-outer-border, -fx-inner-border, -fx-body-color; 
+    -fx-background-insets: 0, 1, 2;
+    -fx-background-radius: 5, 4, 3;
+}
+
+#zoom-label{
+	-fx-text-fill: #DDD;
+}
