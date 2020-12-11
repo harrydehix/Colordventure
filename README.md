@@ -3,7 +3,7 @@ Create animated, interactive, randomly generated colorful images!😋
 
 ## Screenshots
 
-![Example Image](screenshots/screen1.png)
+![Example Image](screenshots/screen1.PNG)
 
 ## Example Images Created With Colordventure
 
