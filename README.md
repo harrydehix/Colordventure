@@ -1,5 +1,5 @@
 # Colordventure
-Create animated, interactive, randomly generated colorful images!😋
+A JavaFX application for generating animated, interactive colorful images!😋
 
 ## Screenshots
 
